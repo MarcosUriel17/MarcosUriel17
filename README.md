@@ -1,16 +1,29 @@
-## Hi there 👋
+### ¡Hola! Soy Marcos 👋
 
-<!--
-**MarcosUriel17/MarcosUriel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de la Huasteca Hidalguense (UTHH), Huejutla, Hidalgo, México. TSU en Tecnologías de la Información, área Desarrollo de Software Multiplataforma.
 
-Here are some ideas to get you started:
+Me enfoco en el desarrollo web y móvil full stack: frontend, backend, bases de datos y, cuando el proyecto lo pide, integración con dispositivos IoT y asistentes de voz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tecnologías
+
+**Lenguajes:** JavaScript, TypeScript  
+**Frontend:** React, React Native  
+**Backend:** Node.js, Express  
+**Bases de datos:** PostgreSQL, MongoDB, SQL Server  
+**Otras:** Git/GitHub, Scrum, IoT (ESP32), Alexa Skills
+
+---
+
+#### 📂 Proyectos
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| Tienda en línea — Joyería Diana Laura | Tienda en línea para un cliente real, con panel de administración, catálogo e integración con Alexa para consultar pedidos por voz. React/TypeScript, Node.js/Express, PostgreSQL. | [Ver sitio](https://joyeria-diana-laura.vercel.app/) |
+| Puerta inteligente (IoT) | Sistema de acceso con ESP32, app en React Native y backend en Node.js/MongoDB. | [Ver repositorio](https://github.com/MarcosUriel123/IntegradoraWEB) |
+| App móvil — Estadía profesional | Aplicación para la gestión de actividades académicas de la universidad, desarrollada en equipo con React Native, Node.js y SQL Server, bajo metodología Scrum. | Proyecto institucional (repositorio privado) |
+
+---
+
+📫 ¿Quieres contactarme? uriel01.bautista.hdez@gmail.com
