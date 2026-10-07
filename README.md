@@ -21,7 +21,7 @@ Me enfoco en el desarrollo web y móvil full stack: frontend, backend, bases de 
 | Proyecto | Descripción | Enlace |
 |---|---|---|
 | Tienda en línea — Joyería Diana Laura | Tienda en línea para un cliente real, con panel de administración, catálogo e integración con Alexa para consultar pedidos por voz. React/TypeScript, Node.js/Express, PostgreSQL. | [Ver sitio](https://joyeria-diana-laura.vercel.app/) |
-| Puerta inteligente (IoT) | Sistema de acceso con ESP32, app en React Native y backend en Node.js/MongoDB. | [Ver repositorio](https://github.com/MarcosUriel123/IntegradoraWEB) |
+| Puerta inteligente (IoT) | Sistema de acceso con ESP32, app en React Native y backend en Node.js/MongoDB. | [Ver repositorio](https://github.com/joose30/IntegradoraWEB) |
 | App móvil — Estadía profesional | Aplicación para la gestión de actividades académicas de la universidad, desarrollada en equipo con React Native, Node.js y SQL Server, bajo metodología Scrum. | Proyecto institucional (repositorio privado) |
 
 ---
